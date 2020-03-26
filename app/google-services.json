@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "21779714028",
+    "firebase_url": "https://epicerie-da370.firebaseio.com",
+    "project_id": "epicerie-da370",
+    "storage_bucket": "epicerie-da370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21779714028:android:4e80f1ff39a20c9f7bfac9",
+        "android_client_info": {
+          "package_name": "com.harneet.epicerie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21779714028-6lkn5vfj1e9otvqo7ff9f00d68s9uc30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClB_cXoVUD5d6v05AyF59CKtsWoxY667k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21779714028-j8ccjc756c7fufphouqoqo9sfn2l02sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21779714028:android:37a68725107ae58a7bfac9",
+        "android_client_info": {
+          "package_name": "com.harneet.epicerie_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21779714028-6lkn5vfj1e9otvqo7ff9f00d68s9uc30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClB_cXoVUD5d6v05AyF59CKtsWoxY667k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21779714028-j8ccjc756c7fufphouqoqo9sfn2l02sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
